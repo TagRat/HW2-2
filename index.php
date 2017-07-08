@@ -13,7 +13,7 @@
 
 <body>
     <main>
-    <h1>Future Value Calculator</h1>
+    <h1>Future Value Calculator Updated</h1>
     <?php if (!empty($error_message)) { ?>
         <p class="error"><?php echo htmlspecialchars($error_message); ?></p>
     <?php } ?>
